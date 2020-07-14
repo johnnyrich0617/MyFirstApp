@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="app_greeting">Hello John Richardson</string>
+    <string name="app_leader_tag">The Best Of The Best</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
